@@ -7,6 +7,6 @@ Heres a little bit about me:
 - 📚 I’m learning many languages and frameworks! However for now, I am mostly focusing on Javascript and React. 
 - 📱 I’m currently mainly working on an application that allows Youth-Team Football coaches to easily manage their matches and players. 
 - 💬 Ask me about anything
-- 📫 How to reach me: conormcadorey@hotmail.co.uk
+- 📫 How to reach me: https://www.linkedin.com/in/conormcadorey/
 - ⚡ Fun fact: I also speak Greek (λοιπόν... μόνο λίγο!)
 
